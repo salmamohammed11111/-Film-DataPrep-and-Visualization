@@ -57,7 +57,8 @@ Beyond the data, this project strengthened my ability to:
 - Troubleshoot real-world data issues like missing values, misclassified data types, and skewed distributions.
 This analysis deepened my understanding of how visualizations can amplify insights — not just display them — and reinforced the importance of curiosity-driven exploration alongside technical precision.
 
- 👩‍💻 About the Author
+ 👩‍💻 About the Author   
+ 
  i'm salma Mohammed, an aspiring data analyst passionate about transforming messy datasets into meaningful insights. With a strong foundation in SQL and Python, I specialize in data cleaning, exploratory analysis, and creating interactive visualizations that tell a compelling story.
 I’m proficient in tools across the data ecosystem — including Excel, Power BI, Tableau, MySQL, and a wide array of Python libraries (such as Pandas, NumPy, Seaborn, Matplotlib, and Plotly). My projects reflect both technical precision and creative storytelling, aimed at building workflows that are not only insightful but also actionable.
 I’m currently building a portfolio that blends practical data analytics with visual clarity, with a growing interest in impactful domains like healthcare analytics and media trends.
