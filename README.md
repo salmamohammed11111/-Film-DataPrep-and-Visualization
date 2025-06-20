@@ -1,5 +1,6 @@
 🎬 Film DataPrep & Visualization   
 This project explores a movie dataset using Python to uncover insights through data cleaning, transformation, and interactive visualizations. It demonstrates practical skills in data wrangling, statistical analysis, and storytelling with visuals.   
+![Film DataPrep   Visu](https://github.com/user-attachments/assets/e882f969-00d1-457a-9d0f-7a25db716073)
 
 📌 Key Features
 - Data Cleaning: Handled missing values, corrected data types, and removed duplicates.
